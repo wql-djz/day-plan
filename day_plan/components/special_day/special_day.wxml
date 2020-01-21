@@ -1,0 +1,10 @@
+<!--components/special_day.wxml-->
+<view class="special">
+  <view class="date">
+    <text class="data_num">25</text>
+    <text class="data_week">周二</text>
+  </view>
+  <view class="special_name_box">
+    <text class="special_name">建军节</text>
+  </view>
+</view>

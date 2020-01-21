@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "van-nav-bar": "/miniprogram_npm/@vant/weapp/nav-bar/index",
+    "van-field": "/miniprogram_npm/@vant/weapp/field/index",
+    "plan":"/components/plan/index",
+    "month":"/components/month/index",
+    "special":"/components/special_day/special_day",
+    "tabbar":"/components/tabbar/index"
+  }
+}

@@ -1,0 +1,9 @@
+<!--components/month/index.wxml-->
+<view class="month">
+  <view>
+    <text class="month_date">2017年08月</text>
+    <view>
+      <van-icon name="arrow" color="#999999" size="15px" custom-style="width:40px;line-height:106rpx;text-align: center;" />
+    </view>
+  </view>
+</view>

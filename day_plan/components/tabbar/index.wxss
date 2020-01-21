@@ -1,0 +1,10 @@
+/* components/tabbar/index.wxss */
+.van-tabbar-item__icon{
+  font-size: var(--tabbar-item-icon-size,25px) !important;
+}
+.van-tabbar-item{
+  font-size: var(--tabbar-item-font-size,10px) !important;
+}
+.van-tabbar{
+  height: var(--tabbar-height,57px) !important;
+}

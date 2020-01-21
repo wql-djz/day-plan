@@ -1,0 +1,16 @@
+<!-- 标题部分，使用vant navbar组件 -->
+<van-nav-bar title="毕计划" title-class	="title" fixed border="false" />
+<!-- 主体部分，组件都是自定义 -->
+<view class="container">
+  <plan style="width:100%;margin-top:6rpx;"></plan>
+  <month style="width:100%;margin:30rpx 0 22rpx"></month>
+  <special style="width:100%;"></special>
+  <special style="width:100%;"></special>
+  <month style="width:100%;margin:12rpx 0 22rpx"></month>
+  <plan style="width:100%;"></plan>
+  <plan style="width:100%;"></plan>
+  <!-- 悬浮小球 -->
+  <view></view>
+</view>
+<!-- 底部导航，用vant tabbar组件 -->
+<tabbar active="0"></tabbar>

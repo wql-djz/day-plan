@@ -1,0 +1,38 @@
+/* components/special_day.wxss */
+.special{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.data_num{
+  display: block;
+  width: 68rpx;
+  height:54rpx;
+  font-size: 34rpx;
+  color: #505050;
+  line-height: 150%;
+  text-align: center;
+}
+.data_week{
+  display: block;
+  width: 68rpx;
+  height:68rpx;
+  font-size: 22rpx;
+  color: #505050;
+  line-height: 68rpx;
+  text-align: center;
+  margin-top: -28rpx;
+}
+.special_name_box{
+  width: 590rpx;
+  max-height: 70rpx;
+  background: #ff9900;
+  border-radius: 4rpx;
+  padding-left: 20rpx;
+  margin-top: 12rpx;
+}
+.special_name{
+ color: #ffffff;
+ font-size: 26rpx;
+ line-height: 70rpx;
+}

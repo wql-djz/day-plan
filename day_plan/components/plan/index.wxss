@@ -1,0 +1,41 @@
+/* components/plan/index.wxss */
+.plan{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.date{
+
+}
+.data_num{
+  display: block;
+  width: 68rpx;
+  height:54rpx;
+  font-size: 34rpx;
+  color: #505050;
+  line-height: 150%;
+  text-align: center;
+}
+.data_week{
+  display: block;
+  width: 68rpx;
+  height:68rpx;
+  font-size: 22rpx;
+  color: #505050;
+  line-height: 68rpx;
+  text-align: center;
+  margin-top: -28rpx;
+}
+.add_plan_box{
+  width: 590rpx;
+  min-height: 112rpx;
+  background: #e7f0ff;
+  border: 2rpx solid #96afff;
+  border-radius: 4rpx;
+  padding-left: 20rpx;
+}
+.add_plan{
+ color: #808080;
+ font-size: 26rpx;
+ line-height: 112rpx;
+}

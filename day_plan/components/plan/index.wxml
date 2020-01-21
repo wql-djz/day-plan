@@ -1,0 +1,10 @@
+<!--components/plan/index.wxml-->
+<view class="plan">
+  <view class="date">
+    <text class="data_num">25</text>
+    <text class="data_week">周二</text>
+  </view>
+  <view class="add_plan_box">
+    <text class="add_plan">今日无日程 点击创建日程</text>
+  </view>
+</view>
